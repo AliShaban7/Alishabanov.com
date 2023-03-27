@@ -813,14 +813,6 @@ main {
   margin-bottom: 30px;
 }
 
-.title-wrapper {
-  display: inline-flex;
-  gap: 10px;
-  justify-content: flex-start;
-  align-items: stretch; 
-  vertical-align: middle;
-}
-
 
 /**
  * education and experience 
