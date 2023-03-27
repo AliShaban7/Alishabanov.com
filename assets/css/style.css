@@ -811,14 +811,15 @@ main {
 
 .article-title {
   margin-bottom: 30px;
+  
 }
 
-.title-wrapper{
+.title-wrapper {
   display: flex;
   justify-content:flex-start;
-  align-items:baseline;
+  align-items: baseline;
   gap: 15px;
-  vertical-align: middle;
+
 }
 
 
